@@ -8,7 +8,7 @@ Yellow="\e[0;33m" # Yellow
 Blue='\e[0;34m'   # Blue
 Green='\e[0;32m'  # Green
 
-if uname -n | grep -qs "^novaler4k" || uname -n | grep -qs "^multibox"; then
+if uname -n | grep -qs "^vuzero4k" || uname -n | grep -qs "^multibox"; then
     opkg update >/dev/null 2>&1
 else
     clear
@@ -21,7 +21,7 @@ fi
 ###########################################
 # Configure where we can find things here #
 pyVersion=$(python -c"from sys import version_info; print(version_info[0])")
-SitUrl='https://raw.githubusercontent.com/MOHAMED19OS/Enigma2_Store/main/NovaStore'
+SitUrl='https://raw.githubusercontent.com/esuo2/Enigma2_Store/main/NovaStore'
 TmpDir='/var/volatile/tmp'
 
 ####################
