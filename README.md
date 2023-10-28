@@ -1,4 +1,3 @@
-# ENIGMA2-PROJECT
-📣 NOTE: It is a Drive to download enigma2 plugins And install them in your enigma2 box.
+# ENIGMA2_PROJECT
 
-✔️ Installation Emu 
+**📣 NOTE: It is a drive for downloading plugins and installing in your enigma2 box.**
