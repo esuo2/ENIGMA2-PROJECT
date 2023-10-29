@@ -43,3 +43,8 @@ wget --no-check-certificate https://raw.githubusercontent.com/MOHAMED19OS/Enigma
 ```fish
 sh -c "$(wget --no-check-certificate https://raw.githubusercontent.com/esuo2/Enigma2_Store/main/NovaStore/installer.sh -qO -)"
 ```
+### ✔️ Installation Plugins
+
+```fish
+sh -c "$(wget --no-check-certificate https://raw.githubusercontent.com/esuo2/Enigma2_Store/main/Plugins/installer.sh -qO -)"
+```
